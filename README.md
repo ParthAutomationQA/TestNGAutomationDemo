@@ -17,7 +17,7 @@ Framework Technologies:
 Applications Covered In Automation:  
 -Netflix  
 -Amazon  
--Linkedin  
+-LinkedIn  
 -Facebook  
 -Instagram  
 -Google

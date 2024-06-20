@@ -1,0 +1,13 @@
+{
+  "credentials":
+[
+  {
+    "email": "helloworld@gmail.com",
+    "password": "helloworld"
+  },
+  {
+    "email": "john@beatles.uk",
+    "password": "lennon"
+  }
+]
+}

@@ -14,12 +14,12 @@ Framework Technologies:
 - Project Lombok to use with POJO classes
 - JsonSimple and Gson library for operation on JSON file
 
-Applications Covered In Automation:
--Netflix
--Amazon
--Linkedin
--Facebook
--Instagram
+Applications Covered In Automation:  
+-Netflix  
+-Amazon  
+-Linkedin  
+-Facebook  
+-Instagram  
 -Google
 
 Testcases written for this Application:
